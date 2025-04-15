@@ -41,6 +41,6 @@ const response = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,typescript,react,redux,next" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,react,redux,next" />
   </a>
 </p>
