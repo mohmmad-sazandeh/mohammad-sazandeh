@@ -30,7 +30,7 @@ const response = {
     firstName: "mohammad",
     lastName : "sazandeh",
     birthDay: "2004 February 10",
-  skills: ["HTML", "CSS", "JS", "TS", "Bootstrap", "React.js", "Redux", "Next.js"],
+    skills: ["HTML", "CSS", "JS", "TS", "Bootstrap", "React.js", "Redux", "Next.js"],
     hobbies: [🏋🏽 ,👨🏻‍🍳 ,🎮 ,🎧 ,... ],
   },
 };
